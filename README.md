@@ -50,3 +50,42 @@ In this project, we create a bucket, upload a file (object), make it public, and
      ]
    }
 
+### 4️⃣ Access File via Browser
+
+Copy the Object URL from the S3 console.
+
+Paste it in your browser to verify that the file is accessible.
+
+Example:
+
+https://your-bucket-name.s3.amazonaws.com/index.html
+
+✅ Outcome
+
+Created an S3 bucket
+
+Uploaded files successfully
+
+Verified public file access through browser
+
+Demonstrated static content hosting on AWS S3
+
+🧩 Tools Used
+
+AWS Management Console
+
+Amazon S3
+
+📚 Learning Focus
+
+AWS S3 fundamentals
+
+Bucket configuration
+
+Object upload and permissions
+
+Public access and static hosting
+
+💡 Author
+
+Apurva Kadam

@@ -58,7 +58,7 @@ Paste it in your browser to verify that the file is accessible.
 
 Example:
 
-https://your-bucket-name.s3.amazonaws.com/index.html
+https://task1bucketintern.s3.us-east-1.amazonaws.com/File1.html
 
 ✅ Outcome
 
